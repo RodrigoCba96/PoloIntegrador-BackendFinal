@@ -1,0 +1,67 @@
+[
+    {
+        "id": 101,
+        "curso_nombre": "Fundamentos de Programación",
+        "descripcion_curso": "Un curso introductorio para aprender los conceptos básicos de la programación.",
+        "tutor": "Alejandro González",
+        "duracion_horas": 40,
+        "fecha_comienzo": "2023-01-15",
+        "precio_curso": 50.00,
+        "disponibilidad": true,
+        "instituto_nombre": "Universidad Nacional de La Rioja",
+        "latitud_locacion": -30.3690682,
+        "longitud_locacion": -66.31274865
+    },
+    {
+        "id": 102,
+        "curso_nombre": "Diseño Web Profesional",
+        "descripcion_curso": "Un curso para diseñadores web que deseen mejorar sus habilidades en diseño y desarrollo.",
+        "tutor": "Elena Ramírez",
+        "duracion_horas": 60,
+        "fecha_comienzo": "2023-02-10",
+        "precio_curso": 75.00,
+        "disponibilidad": false,
+        "instituto_nombre": "Universidad Nacional de La Rioja",
+        "latitud_locacion": -30.3690682,
+        "longitud_locacion": -66.31274865
+    },
+    {
+        "id": 103,
+        "curso_nombre": "Inteligencia Artificial y Aprendizaje Automático",
+        "descripcion_curso": "Explora los fundamentos de la inteligencia artificial y el aprendizaje automático.",
+        "tutor": "Roberto Sánchez",
+        "duracion_horas": 50,
+        "fecha_comienzo": "2023-03-05",
+        "precio_curso": 90.00,
+        "disponibilidad": true,
+        "instituto_nombre": "Universidad Nacional de La Rioja",
+        "latitud_locacion": -30.3690682,
+        "longitud_locacion": -66.31274865
+    },
+    {
+        "id": 104,
+        "curso_nombre": "Estrategias Avanzadas de Marketing Digital",
+        "descripcion_curso": "Aprende estrategias efectivas de marketing digital para promover productos y servicios en línea.",
+        "tutor": "Isabel Mendoza",
+        "duracion_horas": 45,
+        "fecha_comienzo": "2023-04-20",
+        "precio_curso": 60.00,
+        "disponibilidad": true,
+        "instituto_nombre": "Universidad Tecnologica Nacional",
+        "latitud_locacion": -29.40991281,
+        "longitud_locacion": -66.83166687
+    },
+    {
+        "id": 105,
+        "curso_nombre": "Desarrollo Avanzado de Aplicaciones Móviles",
+        "descripcion_curso": "Crea aplicaciones móviles para iOS y Android con las últimas tecnologías de desarrollo.",
+        "tutor": "Francisco Nuñez",
+        "duracion_horas": 55,
+        "fecha_comienzo": "2023-05-15",
+        "precio_curso": 80.00,
+        "disponibilidad": true,
+        "instituto_nombre": "Universidad Tecnologica Nacional",
+        "latitud_locacion": -29.40991281,
+        "longitud_locacion": -66.83166687
+    }
+]
